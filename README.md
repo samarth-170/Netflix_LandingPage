@@ -31,11 +31,12 @@ Netflix-Landing-Page/
 ---
 
 ## 📸 Screenshot
-https://github.com/samarth-170/Netflix_LandingPage/blob/main/Screenshot%202026-07-30%20075539.png?raw=true
+<img width="1898" height="903" alt="Screenshot 2026-07-30 075539" src="https://github.com/user-attachments/assets/656596c4-471e-4e6a-b000-c5c19a686292" />
 
-https://github.com/samarth-170/Netflix_LandingPage/blob/main/Screenshot%202026-07-30%20075551.png?raw=true
+<img width="1886" height="897" alt="Screenshot 2026-07-30 075551" src="https://github.com/user-attachments/assets/5ce0474a-6952-4891-b8b3-200301da7f81" />
 
-https://github.com/samarth-170/Netflix_LandingPage/blob/main/Screenshot%202026-07-30%20075609.png?raw=true
+<img width="1903" height="911" alt="Screenshot 2026-07-30 075609" src="https://github.com/user-attachments/assets/1db2ad52-c3ef-42e5-8f42-14d8d01b95e6" />
+
 ---
 
 ## 🎯 Learning Objectives
